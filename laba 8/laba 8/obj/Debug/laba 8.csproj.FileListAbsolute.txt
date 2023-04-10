@@ -1,0 +1,11 @@
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\bin\Debug\laba 8.exe.config
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\bin\Debug\laba 8.exe
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\bin\Debug\laba 8.pdb
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba 8.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba_8.Form1.resources
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba_8.Properties.Resources.resources
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba 8.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba 8.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba 8.exe
+C:\Users\bohsh\Desktop\sERGEI 7-8-9-10\laba 8\laba 8\obj\Debug\laba 8.pdb
